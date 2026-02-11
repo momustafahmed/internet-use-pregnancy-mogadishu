@@ -46,7 +46,7 @@ See [`data_dictionary.csv`](data_dictionary.csv) for a complete variable-level d
 
 - **IRB approval:** SIMAD University, Mogadishu (Ref. 2025/SU-IRB/FMHS/P007; 30 January 2025).
 - **Informed consent:** Written informed consent was obtained from all participants.
-- **De-identification:** The dataset contains no direct identifiers. Users must not attempt to re-identify participants.
+- **De-identification:** The dataset contains no direct identifiers. 
 - **Declaration of Helsinki:** All procedures adhered to recognized ethical principles.
 
 ## Citation
