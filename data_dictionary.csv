@@ -1,0 +1,35 @@
+variable_name,short_description,type
+age,Age of participant in years,numeric
+agegroup,Age group (18-25 / 26-35 / 36 or more),categorical
+education,Highest education level (No formal education / Primary / Secondary / University),categorical
+employment,Employment status (Employed / Housewife / Student),categorical
+income,Self-reported monthly income in USD,numeric
+gincome,Grouped monthly income (Less than 100 / 101-300 / More than 300 USD),categorical
+state,State of origin within Somalia,categorical
+fpreg,First pregnancy (Yes / No),binary
+prevpreg,Number of previous pregnancies,numeric
+gravida,Gravida status (Primigravida / Multigravida),categorical
+children,Number of living children,numeric
+child_group,Grouped number of living children (No children / 1-3 / 4 or more),categorical
+trimester,Current trimester (First / Second / Third),categorical
+fetus,Reported fetal gender (Female / Male / Prefer not to say or don't know),categorical
+internet,Used internet for pregnancy-related information during current pregnancy (Yes / No) — primary outcome,binary
+hprovider,Healthcare providers as information source (Yes / No),binary
+family,Family members as information source (Yes / No),binary
+friends,Friends as information source (Yes / No),binary
+books,Books or magazines as information source (Yes / No),binary
+tv,Television as information source (Yes / No),binary
+activity,Participated in pregnancy-related educational activity (Yes / No),binary
+actplace,Place of educational activity (Governmental hospital / Primary healthcare center / Private antenatal clinic / Private hospital),categorical
+frequency,Frequency of internet use during current pregnancy (Everyday / 3-4 times a week / 1-2 times a month / Few times during pregnancy),categorical
+method,Method used to access pregnancy-related information online (Social media / Mobile applications / Websites),categorical
+purpose,Main purpose of internet searching (Looking for support / Sharing experiences with others / Looking for pregnancy-related information),categorical
+topic,Main topic searched online (e.g. Diet During Pregnancy / Fetal Development / Infant Feeding),categorical
+Anemia,Self-reported anemia during current pregnancy (0 = No / 1 = Yes),binary
+Gestational_Diabetes,Self-reported gestational diabetes during current pregnancy (0 = No / 1 = Yes),binary
+Heartburn,Self-reported heartburn during current pregnancy (0 = No / 1 = Yes),binary
+Low_Back_Pain,Self-reported low back pain during current pregnancy (0 = No / 1 = Yes),binary
+Morning_Sickness,Self-reported morning sickness during current pregnancy (0 = No / 1 = Yes),binary
+Others,Self-reported other health problems during current pregnancy (0 = No / 1 = Yes),binary
+Vomiting,Self-reported vomiting during current pregnancy (0 = No / 1 = Yes),binary
+health_problem,Any health problem during current pregnancy (0 = No / 1 = Yes),binary

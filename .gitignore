@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Context file (not for distribution)
+context.text
