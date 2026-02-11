@@ -12,7 +12,7 @@ Somalia faces persistent maternal health gaps alongside expanding digital connec
 | **Period** | February – May 2025 |
 | **Design** | Analytical cross-sectional study |
 | **Sample size** | 422 pregnant women (18–49 years, literate, attending ANC) |
-| **Data collection** | Structured, self-administered questionnaire (Somali language) |
+| **Data collection** | Structured, self-administered questionnaire |
 
 ## Outcome Variable
 
